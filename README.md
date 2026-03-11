@@ -4,7 +4,7 @@
 --------------
 
 |Apellido y nombre | Correo | Whatsapp o telegram | Link |
-|---------------------------|--------------------------|-------------|---------------------------|
+|-------------------------------|--------------------------|-------------|---------------------------|
 | Juana Norton | juanamnorton@gmail.com | 2613376010 |<https://github.com/Juananorton/modulo_1>|
 | Rosario Villanueva | rosariovillm@gmail.com | 2616958118 | <https://github.com/Rosariovillm/MODULO1>|
 | Angelica Collazo | acollazo765@gmail.com | 2615868658 | <https://github.com/angelicacollazo/Modulo_1>|
