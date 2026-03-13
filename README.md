@@ -12,4 +12,4 @@
 | Paulina Maselli | paulinamaselli.ing@gmail.com | 2612439354 | <https://github.com/paulinamaselli/Modulo_1>|
 | Clarisse Raingeard | clarisse.raingeard@gmail.com | 0650904303 | <https://github.com/clarisseraingeard/modulo_1>|
 
-!(![WhatsApp Image 2026-03-11 at 18 30 43](https://github.com/user-attachments/assets/52d4c1d7-5b84-4cb9-afde-0a0cb07aa029)
+![WhatsApp Image 2026-03-11 at 18 30 43](https://github.com/user-attachments/assets/52d4c1d7-5b84-4cb9-afde-0a0cb07aa029)
