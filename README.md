@@ -1,5 +1,5 @@
 # Entrega
-## Grupo las valientes 
+## Grupo Las Valientes 
 
 --------------
 
