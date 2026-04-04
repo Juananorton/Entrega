@@ -15,7 +15,7 @@
 ![WhatsApp Image 2026-03-11 at 18 30 43](https://github.com/user-attachments/assets/52d4c1d7-5b84-4cb9-afde-0a0cb07aa029)
 
 ## Guia de Shortcuts de Markdown
-
+<https://docs.google.com/document/d/1GbX7iUWgGs4qBvyf4aAD97MLpqIvTNEF7wrp-QgNozw/edit?usp=sharing>  
 ## Modelo de armado de una pagina Web
 
 ## Colab
