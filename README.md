@@ -17,5 +17,21 @@
 ## Guia de Shortcuts de Markdown
 <https://docs.google.com/document/d/1GbX7iUWgGs4qBvyf4aAD97MLpqIvTNEF7wrp-QgNozw/edit?usp=sharing>  
 ## Modelo de armado de una pagina Web
+<html>
+  <head>
+  <h1> Mi primer pagina de web</h1>
+  </head>
+  <body>
+   Esto es el cuerpo del texto.
+    <p>Esto es un parrafo</p>
+
+  <ul>
+    <li>primero</li>
+    <li>segundo</li>
+    <li>tercero</li>
+  
+  </ul>
+  </body>
+</html>
 
 ## Colab
