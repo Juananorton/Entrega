@@ -35,3 +35,4 @@
 </html>
 ```
 ## Colab
+<https://colab.research.google.com/github/Juananorton/Entrega/blob/main/GoogleColab1.ipynb>
