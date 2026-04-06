@@ -30,7 +30,6 @@
     <li>primero</li>
     <li>segundo</li>
     <li>tercero</li>
-  
   </ul>
   </body>
 </html>
