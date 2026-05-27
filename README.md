@@ -56,7 +56,7 @@
 
 | Nombre y Apellido | Correo | Whatsapp o Telegram | Link |
 |-------------------------------|--------------------------|-------------|---------------------------|
-| Juana Norton | juanamnorton@gmail.com | 2613376010 |<>|
+| Juana Norton | juanamnorton@gmail.com | 2613376010 |<https://github.com/Juananorton/modulo_3>|
 | Rosario Villanueva | rosariovillm@gmail.com | 2616958118 | <>| 
 | Angelica Collazo | acollazo765@gmail.com | 2615868658 | <>|
 | Angelina Moi | angymoiilardo@gmail.com | 2612054308 | <>
