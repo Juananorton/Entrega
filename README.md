@@ -1,5 +1,5 @@
 # Entrega 
-# Modulo 1
+# Entrega_Modulo 1
 ## Grupo Las Valientes 
 
 --------------
@@ -39,7 +39,7 @@
 <https://colab.research.google.com/github/Juananorton/Entrega/blob/main/GoogleColab1.ipynb>
 
 
-# Entrega_Modulo2
+# Entrega_Modulo 2
 
 | Nombre y Apellido | Correo | Whatsapp o Telegram | Link |
 |-------------------------------|--------------------------|-------------|---------------------------|
@@ -51,3 +51,19 @@
 | Clarisse Raingeard | clarisse.raingeard@gmail.com | 0650904303 | <https://github.com/clarisseraingeard/modulo_2>|
 
 
+
+# Entrega_Modulo 3
+
+| Nombre y Apellido | Correo | Whatsapp o Telegram | Link |
+|-------------------------------|--------------------------|-------------|---------------------------|
+| Juana Norton | juanamnorton@gmail.com | 2613376010 |<>|
+| Rosario Villanueva | rosariovillm@gmail.com | 2616958118 | <>| 
+| Angelica Collazo | acollazo765@gmail.com | 2615868658 | <>|
+| Angelina Moi | angymoiilardo@gmail.com | 2612054308 | <>
+| Paulina Maselli | paulinamaselli.ing@gmail.com | 2612439354 | <>|
+| Clarisse Raingeard | clarisse.raingeard@gmail.com | 0650904303 | <>|
+
+
+
+
+v
