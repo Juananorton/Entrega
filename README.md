@@ -69,7 +69,7 @@
 | Nombre y Apellido | Correo | Whatsapp o Telegram | Link |
 |-------------------------------|--------------------------|-------------|---------------------------|
 | Juana Norton | juanamnorton@gmail.com | 2613376010 |<https://github.com/Juananorton/modulo_4>|
-| Rosario Villanueva | rosariovillm@gmail.com | 2616958118 | <>| 
+| Rosario Villanueva | rosariovillm@gmail.com | 2616958118 | <https://github.com/Rosariovillm/Modulo-4.git>| 
 | Angelica Collazo | acollazo765@gmail.com | 2615868658 | <https://github.com/angelicacollazo/Modulo_4>|
 | Angelina Moi | angymoiilardo@gmail.com | 2612054308 | <>
 | Paulina Maselli | paulinamaselli.ing@gmail.com | 2612439354 | <>|
